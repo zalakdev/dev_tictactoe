@@ -100,3 +100,17 @@ h2.gameover {
     background: green;
     color: #fff;
 }
+body.gamewin h2 {
+    background: green;
+    color: #fff;
+}
+body.gametie h2 {
+    background: red;
+    color: #fff;
+}
+body.gamewin #tic_tac_game {
+    background: green;
+}
+body.gametie #tic_tac_game {
+    background: red;
+}
